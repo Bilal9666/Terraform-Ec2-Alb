@@ -1,0 +1,1 @@
+In this we are creating a Aws ec2 instance with auto scalng, load balancer, templates
